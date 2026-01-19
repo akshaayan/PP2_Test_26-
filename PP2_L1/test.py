@@ -7,3 +7,4 @@ print(c)
 
 print("Test message")
 print(c-10) 
+print("New")
