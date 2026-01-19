@@ -6,3 +6,4 @@ c = a+b
 print(c)
 
 print("Test message")
+print(c-10) 
